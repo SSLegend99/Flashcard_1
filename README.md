@@ -4,7 +4,7 @@
 A basic flashcards app created with tap to switch views.
 
 ### App Walk-though
-<img src="Flashcard_week_1.gif" width=200><br>
+<img src="Flashcard_week_1_walkthrough.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
