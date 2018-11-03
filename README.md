@@ -6,7 +6,7 @@
 A basic flashcards app created with tap to switch views.
 
 ### App Walk-though
-<img src="Flashcard_week_2_walkthrough.gif" width=200><br>
+<img src="Flashcard_week_4_walkthrough.gif" width=200><br>
 
 ## Required
 - [x] User can click on a â€˜+â€™ button that takes the user to new â€˜Add Card Screenâ€™
