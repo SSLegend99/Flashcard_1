@@ -9,7 +9,7 @@ A basic flashcards app created with tap to switch views.
 <img src="Flashcard_week_4_walkthrough.gif" width=200><br>
 
 ## Required
-- [x] User can click on a â€˜+â€™ button that takes the user to new â€˜Add Card Screenâ€™
+- [x] User can click on a + button that takes the user to new â€˜Add Card Screenâ€™
 - [x] The 'Add Card Screen' has a cancel button to take the user back to the main screen
 - [x] User can enter and submit a Question and Answer through the 'Add Card Screen'
 - [x] User will see the card they just created on the main screen when they press the 'Save Button'
