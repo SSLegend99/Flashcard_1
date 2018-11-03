@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddCardActivity">
+
+    <EditText
+        android:id="@+id/questionField"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_margin="20dp"
+        android:hint="Enter The Question Here"
+        android:inputType="textMultiLine" />
+
+    <EditText
+        android:id="@+id/answerField"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="140dp"
+        android:layout_marginHorizontal="20dp"
+        android:hint="Enter The Answer Here"
+        android:inputType="textMultiLine" />
+
+
+    <ImageView
+        android:id="@+id/xButton"
+        android:src="@drawable/ic_x_button"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_alignParentEnd="true"
+
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="20dp" />
+
+    <ImageView
+        android:id="@+id/saveButton"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_alignStart="@+id/questionField"
+        android:layout_alignTop="@+id/xButton"
+        android:src="@drawable/ic_download_button" />
+
+
+
+</RelativeLayout>
