@@ -36,4 +36,16 @@
         android:layout_marginBottom="20dp"
         android:src="@drawable/ic_plus_sign_in_circle" />
 
+    <ImageView
+        android:id="@+id/next_button"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentEnd="true"
+
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="250dp"
+        android:src="@drawable/ic_arrow_alt_circle_right" />
+
+
 </RelativeLayout>
